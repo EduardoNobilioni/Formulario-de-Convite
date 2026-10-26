@@ -1,0 +1,17 @@
+:root {
+  --brand-light: #59b2ff;
+  --brand-dark: #3487cf;
+  --accent-pink: #ff598b;
+  --danger: #ff5959;
+  --input-background: #1c1f21;
+  --input-stroke: #363b3f;
+  --input-placeholder: #869198;
+  --shape-background: #131516;
+  --shape-body: #212427;
+  --shape-button: #2d3136;
+  --text-body: #c8cdd0;
+  --text-heading: #f9f9f9;
+  --text-muted: #869198;
+  --radius-sm: 0.5rem;
+  --radius-md: 0.75rem;
+}
