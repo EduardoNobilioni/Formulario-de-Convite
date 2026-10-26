@@ -60,29 +60,9 @@ Os itens abaixo reproduzem o checklist utilizado para a entrega do projeto.
 - [x] Mostrar mensagens de erro em campos não preenchidos.
 - [x] Criar o estilo das mensagens de erro, com texto vermelho e destaque no
   campo.
-- [ ] Subir o código do desafio no GitHub para utilizá-lo como projeto no
+- [x] Subir o código do desafio no GitHub para utilizá-lo como projeto no
   portfólio.
 - [x] Escrever um README explicando como rodar e visualizar o portfólio.
-
-## Revalidação do checklist
-
-Na revisão atual, os itens de interface e formulário do checklist estão
-implementados:
-
-- Os campos solicitados existem no HTML.
-- Os campos de data aparecem lado a lado em telas maiores.
-- As opções de tipo, cor e tema utilizam grupos de seleção.
-- Os estados selecionado, foco e hover estão definidos no CSS.
-- A página permanece no tema escuro, enquanto o toggle representa o estilo
-  escolhido para o convite.
-- O upload aceita arquivos de imagem.
-- E-mail, telefone e campos obrigatórios possuem validação nativa.
-- Campos inválidos recebem destaque visual e mensagens de erro.
-- O botão de envio está presente e estilizado.
-
-O único item que permanece pendente é a publicação no GitHub, pois ela será
-feita manualmente pelo responsável pelo projeto. Depois da publicação, basta
-marcar esse item como concluído e adicionar o link do repositório, se desejar.
 
 ## Observação
 
