@@ -38,7 +38,7 @@ Os itens abaixo reproduzem o checklist utilizado para a entrega do projeto.
 - [x] Estilizar o campo de local.
 - [x] Adicionar o campo de descrição do evento (`textarea`).
 - [x] Estilizar o campo de descrição.
-- [x] Criar a opção de selecionar estilo claro ou escuro.
+- [x] Criar a opção de selecionar o estilo do convite (claro ou escuro).
 - [x] Estilizar o toggle de estilo, com visual de claro e escuro.
 - [x] Adicionar o campo de upload de imagem de capa.
 - [x] Estilizar o campo de upload, incluindo botão e nome do arquivo
@@ -73,7 +73,8 @@ implementados:
 - Os campos de data aparecem lado a lado em telas maiores.
 - As opções de tipo, cor e tema utilizam grupos de seleção.
 - Os estados selecionado, foco e hover estão definidos no CSS.
-- O toggle permite alternar visualmente entre claro e escuro.
+- A página permanece no tema escuro, enquanto o toggle representa o estilo
+  escolhido para o convite.
 - O upload aceita arquivos de imagem.
 - E-mail, telefone e campos obrigatórios possuem validação nativa.
 - Campos inválidos recebem destaque visual e mensagens de erro.
